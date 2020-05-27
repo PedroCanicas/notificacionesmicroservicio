@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/desarrollo/notificacionesmicroservicio/User/workspaceStorage/dbac9c1780d2af5659f20d0fed5c0f6e/redhat.java/.5d4d6e6db0903d9718e913887c80bc51b5ca57ef-audit.json",
+    "files": [
+        {
+            "date": 1590410128271,
+            "name": "/home/desarrollo/notificacionesmicroservicio/User/workspaceStorage/dbac9c1780d2af5659f20d0fed5c0f6e/redhat.java/client.log.2020-05-25",
+            "hash": "a11366aefc914e5cec669edeb9f53dcf"
+        },
+        {
+            "date": 1590495961490,
+            "name": "/home/desarrollo/notificacionesmicroservicio/User/workspaceStorage/dbac9c1780d2af5659f20d0fed5c0f6e/redhat.java/client.log.2020-05-26",
+            "hash": "24b2b83d0cf3ac3d1ae2981ef4509656"
+        },
+        {
+            "date": 1590538296548,
+            "name": "/home/desarrollo/notificacionesmicroservicio/User/workspaceStorage/dbac9c1780d2af5659f20d0fed5c0f6e/redhat.java/client.log.2020-05-27",
+            "hash": "d17872e87b509cf05104322b9d4fa32a"
+        }
+    ]
+}
